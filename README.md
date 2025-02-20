@@ -8,7 +8,6 @@ I'm a seasoned sotware engineer, Python and Javascript developer.
 - Python programming
 - Javascript programming
 - Web development
-- Data engineering
 
 ---
 
