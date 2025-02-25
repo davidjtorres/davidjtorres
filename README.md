@@ -2,12 +2,12 @@
 
 🚀 Software Engineer 
 
-I'm a seasoned sotware engineer, Python and Javascript developer.
+Seasoned Software Engineer that loves building for the web
 
 ## 💡 My Interests
 - Python programming
 - Javascript programming
-- Web development
+- Web development + Gen AI
 
 ---
 
