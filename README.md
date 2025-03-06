@@ -1,12 +1,10 @@
 # Hey there, this is David 👋
 
-🚀 Software Engineer 
-
-Seasoned Software Engineer that loves building for the web
+A seasoned Software Engineer who loves building for the web.
 
 ## 💡 My Interests
-- Python programming
-- Javascript programming
+- Javascript
+- Python
 - Web development + Gen AI
 
 ---
